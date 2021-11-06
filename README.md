@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackMoFan)](https://git.io/streak-stats)
 <br />
