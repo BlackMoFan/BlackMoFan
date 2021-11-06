@@ -16,11 +16,14 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> -->
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a>
+
+| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
+| ------------- |
+<!-- <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackMoFan)](https://git.io/streak-stats) -->
