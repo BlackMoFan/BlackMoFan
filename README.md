@@ -1,3 +1,4 @@
+### hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **About me**
 - :globe_with_meridians: I’m interested in Biotechnology, cybersecurity, software development, learning all kinds of tech
 - :briefcase: I’m currently learning Flutter, Data Analytics, Github, Java, C++, Python, and Javascript
@@ -6,6 +7,8 @@
 - :email: How to reach me?  Message me here
   - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
 <br />
+
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**
 
