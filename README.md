@@ -4,7 +4,7 @@
 **About me**
 - :globe_with_meridians: I’m interested in Biotechnology, cybersecurity, software development, learning all kinds of tech
 - :briefcase: I’m currently learning Flutter, Data Analytics, Github, Java, C++, Python, and Javascript
-- :zap: You can view my portfolio I hosted using Github [here](https://blackmofan.github.io/).  I try to improve it as I progress on my study.
+- :zap: You can view my [portfolio](https://blackmofan.github.io/) I hosted using Github.  I try to improve it as I progress on my study.
 - :recycle: I encourage my self as well as others about [The 17 Sustainable Development Goals](https://sdgs.un.org/goals)!
 - :email: How to reach me?  Message me here
   - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
