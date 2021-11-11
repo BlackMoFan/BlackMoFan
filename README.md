@@ -18,7 +18,7 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" width="320" height="230" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" width="400" height="310" /></a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
