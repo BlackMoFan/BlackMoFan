@@ -1,4 +1,4 @@
-### hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hallo <img src="giphy.gif" width="25px">
 **About me**
 - :globe_with_meridians: I’m interested in Biotechnology, cybersecurity, software development, learning all kinds of tech
 - :briefcase: I’m currently learning Flutter, Data Analytics, Github, Java, C++, Python, and Javascript
