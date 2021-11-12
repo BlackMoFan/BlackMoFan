@@ -16,7 +16,7 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" alt="Black Mo Fan's Most Used Languages"/></a> | <img align="center" alt="GIF" src="code.gif?raw=true"/> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" alt="Black Mo Fan's Most Used Languages" width="500" height="320"/></a> | <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> |
 | ------------- | ------------- |
 
 <!-- width="320" height="230" -->
