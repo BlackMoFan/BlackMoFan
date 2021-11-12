@@ -9,7 +9,7 @@
 - :email: How to reach me?  Message me here
   - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
 
-  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> 
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="270" /> 
 
 **Languages and Tools:**
 
