@@ -9,12 +9,12 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" alt="Black Mo Fan's Most Used Languages" width="400" height="220"/></a> | <img align="center" alt="GIF" src="code.gif?raw=true" width="400" height="220" /> |
 | ------------- | ------------- |
