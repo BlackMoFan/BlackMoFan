@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="Hallo, i'm rod.gif?raw=true" width="1200" height="250" />
+<img align="center" alt="GIF" src="code3.gif?raw=true" width="500" height="320" />
 
 ### hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **About me**
