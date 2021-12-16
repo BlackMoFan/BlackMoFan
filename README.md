@@ -1,6 +1,7 @@
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <br /> hallo
 </div> 
 
+<!-- ABOUT ME -->
 ---
 `About me`
 - :globe_with_meridians: I’m interested in biotechnology, cybersecurity, software development -- learning all kinds of tech
@@ -12,6 +13,7 @@
 
 ---
 
+<!-- LANGUAGES AND TOOLS -->
 <!-- **Languages and Tools:**
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
@@ -20,13 +22,12 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"></code> -->
----
+
+<!-- GITHUB STATS -->
 `My Github Stats`
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMoFan&exclude_repo=BlackMoFan.github.io&layout=compact&theme=dark&hide_border=true" alt="Black Mo Fan's Most Used Languages" width="400" height="220"/></a> | <img align="center" alt="GIF" src="code.gif?raw=true" width="400" height="220" /> |
 | ------------- | ------------- |
 
-<!-- width="320" height="230" -->
-<!-- width="450" height="270" -->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
 | ------------- | ------------- |
