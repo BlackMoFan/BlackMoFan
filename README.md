@@ -32,7 +32,9 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
 | ------------- | ------------- |
 
-<p align="center"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+| <p align="center"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> |
+| :-: |
+
 ---
 
 <!---
