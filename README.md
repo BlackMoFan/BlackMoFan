@@ -6,6 +6,7 @@
 - :recycle: I encourage my self as well as others about [The 17 Sustainable Development Goals](https://sdgs.un.org/goals)!
 - :email: How to reach me?  Message me here
   - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
+---
 
 <!-- **Languages and Tools:**
 
