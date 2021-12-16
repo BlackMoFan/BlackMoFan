@@ -1,5 +1,5 @@
 ### hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-**About me**
+`**About me**`
 - :globe_with_meridians: I’m interested in biotechnology, cybersecurity, software development -- learning all kinds of tech
 - :briefcase: I’m currently learning Data Analytics, Git, Java, C++, Python, Javascript, and Flutter
 - :zap: You can view my [portfolio](https://blackmofan.github.io/) I hosted using Github.  I try to improve it as I progress on my study.
