@@ -1,4 +1,6 @@
-<p style="text-align: center;">### hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+### <div style="text-align: center;">
+      hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+    </div>
 
 ## `About me`
 - :globe_with_meridians: I’m interested in biotechnology, cybersecurity, software development -- learning all kinds of tech
