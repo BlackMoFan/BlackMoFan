@@ -1,4 +1,4 @@
-<div align="center"> hallo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <br /> hallo
 </div> 
 
 ## `About me`
