@@ -4,14 +4,13 @@
 </div> 
 
 <!-- ABOUT ME -->
----
+
 `About me`
 
-- :globe_with_meridians: I’m interested in biotechnology, cybersecurity, software development -- learning all kinds of tech
-- :briefcase: I’m currently learning Data Analytics, Git, Java, C++, Python, Javascript, and Flutter
-- :zap: You can view my [portfolio](https://blackmofan.github.io/) I hosted using Github Pages.  I try to improve it as I progress on my study.
-- :recycle: I encourage my self as well as others about [The 17 Sustainable Development Goals](https://sdgs.un.org/goals)!
-- :email: How to reach me?  Message me here
+- :globe_with_meridians: Biotech enthusiast.
+- :briefcase: I’m currently crawling through data analytics, web development, minicontrollers, and electronics.
+- :recycle: I incorporate the [17 Sustainable Development Goals](https://sdgs.un.org/goals) with my projects!
+- :email: Reach me
   - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
 
 ---
