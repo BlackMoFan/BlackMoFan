@@ -2,6 +2,12 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <br /> hallo, I'm Rod
 </div> 
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rod-lester-m-75a092208/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 <!-- ABOUT ME -->
 
@@ -69,6 +75,11 @@
 
 ---
 <div align="center"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </div>
+<p align="center">
+  <a href="https://github.com/BlackMoFan">
+    <img src="https://komarev.com/ghpvc/?username=BlackMoFan&color=blue&style=flat)" />
+  </a>
+</p>
 
 
 
