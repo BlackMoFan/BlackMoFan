@@ -1,4 +1,7 @@
-<!-- SOURCE FOR BADGES :  https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
+<!-- 
+SOURCE FOR BADGES :  https://dev.to/envoy_/150-badges-for-github-pnk#skills 
+also from: wervlad and drkostas
+-->
 
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <br /> hallo, I'm Rod
 </div> 
