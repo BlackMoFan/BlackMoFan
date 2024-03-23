@@ -3,66 +3,87 @@ SOURCE FOR BADGES :  https://dev.to/envoy_/150-badges-for-github-pnk#skills
 also from: wervlad and drkostas
 -->
 
-<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <br /> hallo, I'm Rod
+<div align="center"> 
+  <!--   <img src="https://i.gifer.com/VhdL.gif" width="50px">  -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
+  
+  <br /> 
+  
+  Kumusta, I'm Rod
 </div> 
+
 <br />
-<p align="center">
-  <a href="https://www.linkedin.com/in/rod-lester-m-75a092208/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 <!-- ABOUT ME -->
 
-<!--
-`About me`
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Rod+Lester+A.+Moreno;blackmofan;student+for+life;stoic;SWE+enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-- :globe_with_meridians: Biotech enthusiast.
-- :briefcase: I’m currently crawling through data analytics, web development, minicontrollers, and electronics.
-- :recycle: I incorporate the [17 Sustainable Development Goals](https://sdgs.un.org/goals) with my projects!
-- :email: Reach me
-  - :trident: [LinkedIn](https://www.linkedin.com/in/rod-lester-m-75a092208/)
--->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rod+Lester+Moreno;Student+%7C+Aspiring+Bioengineer;AI+%7C+Computer+Vision+%7C+Electronics)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://github.com/BlackMoFan">
+    <img src="https://komarev.com/ghpvc/?username=BlackMoFan&color=blue&style=flat)" />
+  </a>
+</div>
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges)
+<!-- [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges) -->
 
 ---
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/BlackMoFan)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/BlackMoFan)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue)](https://github.com/BlackMoFan)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/BlackMoFan)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white)](https://github.com/BlackMoFan)
+<!-- https://www.iconfinder.com/ -->
+<div align="center">
+  <img src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/HTML5-256.png" alt="HTML" width="60px"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/CSS3-256.png" alt="CSS" width="60px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-256.png" alt="JavaScript" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-256.png" alt="React" width="60px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" alt="NextJS" width="60px"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/tailwind-256.png" alt="Tailwind CSS" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/php-256.png" alt="PHP" width="60px"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/laravel-256.png" alt="Laravel" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-256.png" alt="PostgresQL" width="60px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-mysql-256.png" alt="MySQL" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/python-512.png" alt="Python" width="60px"/>
+  <img src="https://static-00.iconduck.com/assets.00/fastapi-icon-512x512-a7ggfxfw.png" alt="FastAPI" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-256.png" alt="npm" width="60px"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="GitHub" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/linux-256.png" alt="Linux" width="60px"/>
 
-### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/BlackMoFan)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/BlackMoFan)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/BlackMoFan)
-[![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/BlackMoFan)
+  <br />
+  <br />
+  <p align="center">
+    <div style="border: 2px solid #BCF7FF; display: inline-block; padding: 5px;">
+      <img src="https://img.shields.io/badge/Languages_%26_Technologies_I_have_used-000000?style=flat">
+    </div>
 
-### Database
-[![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/BlackMoFan)
-[![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/BlackMoFan)
+  </p>
 
-### Deployment
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/BlackMoFan)
+</div>
 
-### Utilities
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/BlackMoFan)
-[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/BlackMoFan)
-[![HyperTerm](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://github.com/BlackMoFan)
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/BlackMoFan)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/BlackMoFan)
+<div align="center">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vim-256.png" alt="Vim" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-8/32/vs_code-256.png" alt="VS Code Insiders" width="60px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/radix/15/notion-logo-512.png" alt="Notion" width="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" alt="Postman" width="60px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-vercel-256.png" alt="Vercel" width="60px"/>
 
-### Education
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://github.com/BlackMoFan)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://github.com/BlackMoFan)
+  <br />
+  <br />
+  <p align="center"><img src="https://img.shields.io/badge/Tools_I_have_used-000000?style=flat"></p>
+</div>
 
+
+<div align="center">
+  
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+  
+  <p align="center"><img src="https://img.shields.io/badge/Mind_mapping-000000?style=flat"></p>
+</div>
+
+---
 
 <details>
   
@@ -72,29 +93,69 @@ also from: wervlad and drkostas
 | ------------- | ------------- | -->
 
  
-  #### My Github Stats
+<!--  #### My Github Stats
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmofan&layout=compact&theme=tokyonight&langs_count=10) | <img align="center" alt="GIF" src="code.gif?raw=true" width="400" height="220" /> |
 | ------------- | ------------- |
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackMoFan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Black Mo Fan's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
-| ------------- | ------------- | -->
-  
-| ![](https://github-readme-stats.vercel.app/api?username=blackmofan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
 | ------------- | ------------- |
   
-![Snake animation](https://github.com/blackmofan/blackmofan/blob/output/github-contribution-grid-snake.svg)
+| ![](https://github-readme-stats.vercel.app/api?username=blackmofan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackMoFan&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Black Mo Fan's streak" /></a> |
+| ------------- | ------------- | -->
+
+## 📊 GitHub Stats 
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="blackmofan's Github Stats" src="https://github-profile-trophy.vercel.app/?username=blackmofan&theme=onedark&row=1" width="800px"/></a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackmofan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="blackmofan" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackmofan&theme=onedark" alt="blackmofan" width="400px"/>
+  <br/>
+</div>
+
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
   
 </details>
 
 ---
+
+
 <div align="center"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </div>
-<p align="center">
-  <a href="https://github.com/BlackMoFan">
-    <img src="https://komarev.com/ghpvc/?username=BlackMoFan&color=blue&style=flat)" />
+
+---
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50" height="50">
+    <p>Connect with Me</p>
+</div>
+
+
+<div align="center">
+  <a href="mailto:rodlester.moreno23@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-</p>
-
-
+  
+  <a href="https://www.linkedin.com/in/rod-lester-m-75a092208/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
 
 <!---
 BlackMoFan/BlackMoFan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
