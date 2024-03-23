@@ -62,6 +62,10 @@ also from: wervlad and drkostas
 
 </div>
 
+<div align="center">
+  <hr width="50%" style="margin-top: 0; margin-bottom: 0;">
+</div>
+
 
 <div align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vim-256.png" alt="Vim" width="60px"/>
@@ -75,6 +79,9 @@ also from: wervlad and drkostas
   <p align="center"><img src="https://img.shields.io/badge/Tools_I_have_used-000000?style=flat"></p>
 </div>
 
+<div align="center">
+  <hr width="50%" style="margin-top: 0; margin-bottom: 0;">
+</div>
 
 <div align="center">
   
