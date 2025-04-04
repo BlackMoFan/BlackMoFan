@@ -1,7 +1,7 @@
-<h1 align="center"> 👋 Hi there! I'm Rod Lester A. Moreno</h1>
-<p align="center"><b>Software Engineer from Iloilo PH</b></p>
+<h1 align="center"> 👋 Hi there! I'm Rod</h1>
+<p align="center"><b>Software Engineer from Antique/b></p>
 <p align="center">
-  <a href="https://blackmofan.vercel.app/" target="_blank">U+1F9EC blackmofan.vercel.app U+1F9EC</a> 
+  <a href="https://blackmofan.vercel.app/" target="_blank">blackmofan.vercel.app</a> 
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=blackmofan&label=Profile+Views&color=gray&style=for-the-badge" alt="blackmofan" /></p>
 
