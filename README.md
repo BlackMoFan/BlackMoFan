@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=blackmofan&label=Profile+Views&color=gray&style=for-the-badge" alt="blackmofan" /></p>
 
-## 🚀 Me
+## 🧬 Me
 
 I'm a **Software Engineer** who enjoys building **web and mobile apps**, **PCB designs**, **AI models**, and **automation systems**. Passionate about **fintech**, **AI tech**, and **HCI**.
 
