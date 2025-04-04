@@ -74,12 +74,18 @@ I'm a **Software Engineer** who enjoys building **web and mobile apps**, **PCB d
   
 </details>
 
-## 📫 Get in Touch!
+## 📫 Hire Me for Your Project!
 
 - [rodlester.moreno23@gmail.com](mailto:rodlester.moreno23@gmail.com)
 - [@blackmofan.codes](https://instagram.com/blackmofan.codes)
 - [LinkedIn](https://www.linkedin.com/in/rolem)
 
 💡 Always open to collaborations and learning new things!
+
+<div  align="center">
+  <a href="https://www.buymeacoffee.com/blackmofan" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</div>
 
 ---
