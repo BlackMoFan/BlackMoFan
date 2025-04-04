@@ -30,7 +30,7 @@ I'm a **Software Engineer** who enjoys building **web and mobile apps**, **PCB d
 - implemented real-time score tracking and ensured data integrity with Doctrine ORM
 - successfully deployed to West Visayas State University’s server
 
-### 🏠 Tenancy Management System *(TailwindCSS, PHP)*
+### 🏠 Tenancy Management System *(TALL)*
 - an app for managing rental properties
 - cloud-deployed and optimized using Google Lighthouse tests
 
