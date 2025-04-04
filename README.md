@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi there! I'm Rod</h1>
-<p align="center"><b>Software Engineer from Antique/b></p>
+<p align="center"><b>Software Engineer from Antique</p>
 <p align="center">
   <a href="https://blackmofan.vercel.app/" target="_blank">blackmofan.vercel.app</a> 
 </p>
@@ -7,13 +7,14 @@
 
 ## 🚀 Me
 
-I'm a **Software Engineer** who enjoys building **web apps**, **dev tools**, **AI models**, and **automation systems**. Passionate about **fintech**, **AI tech**, and **HCI**.
+I'm a **Software Engineer** who enjoys building **web and mobile apps**, **PCB designs**, **AI models**, and **automation systems**. Passionate about **fintech**, **AI tech**, and **HCI**.
 
 ## 🔧 Technologies & Skills
 
 - **Languages:** C++, Python, JavaScript, TypeScript, PHP
-- **Frontend:** TailwindCSS, DaisyUI, ShadCN, ChakraUI
-- **Backend:** Node.js, Laravel, Flask, REST APIs
+- **MCUs and PCB Design Tools:** Arduino, RPi, KiCad
+- **Web Frontend:** TailwindCSS, DaisyUI, ShadCN, ChakraUI
+- **Web Backend:** Node.js, Laravel, Flask, REST APIs
 - **Database:** PostgreSQL, MySQL, , Firebase, MongoDB, SQLite
 - **DevOps & Tools:** Git, CI/CD, AWS
 - **Website Builders:** WordPress, BigCommerce, Shopify
@@ -33,9 +34,9 @@ I'm a **Software Engineer** who enjoys building **web apps**, **dev tools**, **A
 - an app for managing rental properties
 - cloud-deployed and optimized using Google Lighthouse tests
 
-### 🩺 Poison Information Service *(Next.js, TypeScript, Python, Laravel)*
-- Developed a chatbot and custom CMS for poison-related news and reports
-- Integrated Dijkstra’s algorithm for nearest medical facility suggestions
+### 🦷 DentAssist *(React, TypeScript, Python, PostgreSQL, Slate.js, Wav2Vec)*
+- a dental patient management system with scheduling, treatment tracking, and automated reminders.
+- developed an AI-powered assistant for patient inquiries, treatment insights, and data organization.
 
 ### 🛒 eCommerce Website *(BigCommerce, jQuery, REST APIs)*
 - maintained and improved an eCommerce platform for an Australian raw ingredient supplier
