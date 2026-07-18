@@ -65,14 +65,43 @@ I'm a **Software Engineer** specializing in **AI-powered full-stack products**. 
 <summary>📊 GitHub Stats</summary>
 <br/>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=blackmofan&theme=onedark&row=1&column=7" width="800px"/></a>
+  <!-- Trophies: replace with your self-hosted github-profile-trophy instance -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophies" src="https://<YOUR-TROPHY-VERCEL-APP>.vercel.app/?username=blackmofan&theme=onedark&row=1&column=7" width="800px"/></a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackmofan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="top langs" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackmofan&theme=onedark" alt="streak" width="400px"/>
+  <!-- Stats: replace with your self-hosted github-readme-stats instance -->
+  <img src="https://<YOUR-STATS-VERCEL-APP>.vercel.app/api/top-langs?username=blackmofan&layout=compact&theme=onedark&cache_seconds=86400" alt="top langs" width="now streak-stats.demolab.com.
+
+So the cards render fine when the services astances keep hitting limits. The robust fixis to self-host them on your own free Vercel — that removes the shared rate limit.
+
+Fix (one-time, free)
+
+A. Stats + top-langs — self-host github-readme-stats:
+1. Fork github.com/anuraghazra/github-readme-stats
+2. Create a GitHub PAT (classic, scope read:user; add repo only if you want private-repo counts)
+3. Deploy the fork to Vercel, add env var PAT_1 = <your token>
+4. Point your README at https://<your-app>.vercel.app/api/top-langs?... and /api?...
+
+B. Trophies — self-host github-profile-trophy:
+1. Fork github.com/ryo-ma/github-profile-trophy
+2. Deploy to Vercel, add env var GITHUB_TOKE
+3. Point the README at https://<your-trophy-ckmofan...
+
+C. Streak — just change the domain (no hosting needed): herokuapp.com → streak-stats.demolab.com.
+
+Updated stats block
+eplacement for the <details> section. The streak fix works immediately; replace the two <YOUR-…-VERCEL-APP> placeholders once you've deployed A and B. I also added cache_seconds to reduce churn.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br/>
+<div align="center">
+  <!-- Trophies: replace with your self-hosted github-profile-trophy instance -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophies" src="https://<YOUR-TROPHY-VERCEL-APP>.vercel.app/?username=blackmofan&theme=onedark&row=1&column=7" width="800px"/></a>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <!-- Stats: replace with your self-hosted -->
+  <img src="https://<YOUR-STATS-VERCEL-APP>.vercel.app/api/top-langs?username=blackmofan&layout=compact&theme=onedark&cache_seconds=86400" alt="top langs" width="400px"/>
+  <img src="https://streak-stats.demolab.com/?user=blackmofan&theme=onedark" alt="streak" width="400px"/>
+  <br/>ttps://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
