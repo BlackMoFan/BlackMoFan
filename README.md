@@ -51,11 +51,6 @@ I'm a **Software Engineer** specializing in **AI-powered full-stack products**. 
 - Rent + utility billing engine, tiered pricing, SMS notifications
 - 🔗 Live: [burrowph.com](https://burrowph.com)
 
-### 📊 AgencyMetrica — AI Brand & Menu QA Tools *(Node.js, Claude, MCP, Supabase)*
-- Menu Guard: diffs a venue's source menu vs. its live site with AI adjudication (56/56 calibration)
-- BrandMetrica: on-brand content checking with voice profiles and claims verification
-- 🔗 Demo: [agency-metrica-five.vercel.app](https://agency-metrica-five.vercel.app)
-
 ### 🐖 Vision-Based Weight Estimation Suite *(Flutter, FastAPI, EfficientNet-B0, TFLite)*
 - Non-invasive CNN weight/measurement estimation for **swine, quail, and vermicompost** — research at ISAT-U
 - Cross-platform Flutter app + FastAPI inference, with quantized on-device TFLite models
